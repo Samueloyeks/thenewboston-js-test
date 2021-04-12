@@ -1,6 +1,12 @@
-# Title
+---
+name: Pull Request
+about: ''
+title: 'feat: description of fix'
+labels: ''
+assignees: ''
 
-feat: description of fix
+---
+
 
 # Description
 

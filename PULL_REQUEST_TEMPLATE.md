@@ -1,3 +1,7 @@
+# Title
+
+feat: description of fix
+
 # Description
 
 Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context. List any dependencies that are required for this change.
@@ -8,7 +12,7 @@ Fixes # (issue)
 
 - [ ] Chore (chore: description-of-task)
 - [ ] Fix (fix: description-of-fix)
-- [ ] Feature (feat: description-of-feature-added)
+- [ ] Feature (feat: description-of-fix)
 - [ ] Docs (docs: description-of-docs-added-or-modified)
 - [ ] Test (test: description-of-tests-performed)
 - [ ] Refactor (refactor: description-of-refactor)
